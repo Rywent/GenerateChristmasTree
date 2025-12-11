@@ -1,0 +1,14 @@
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\bin\Debug\net10.0\GenerateChristmasTree.exe
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\bin\Debug\net10.0\GenerateChristmasTree.deps.json
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\bin\Debug\net10.0\GenerateChristmasTree.runtimeconfig.json
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\bin\Debug\net10.0\GenerateChristmasTree.dll
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\bin\Debug\net10.0\GenerateChristmasTree.pdb
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.AssemblyInfoInputs.cache
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.AssemblyInfo.cs
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.csproj.CoreCompileInputs.cache
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.dll
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\refint\GenerateChristmasTree.dll
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.pdb
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.genruntimeconfig.cache
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\ref\GenerateChristmasTree.dll
