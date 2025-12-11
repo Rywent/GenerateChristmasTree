@@ -12,3 +12,4 @@ D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\De
 D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.pdb
 D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.genruntimeconfig.cache
 D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\ref\GenerateChristmasTree.dll
+D:\Programming\csharpProjects\GenerateChristmasTree\GenerateChristmasTree\obj\Debug\net10.0\GenerateChristmasTree.sourcelink.json

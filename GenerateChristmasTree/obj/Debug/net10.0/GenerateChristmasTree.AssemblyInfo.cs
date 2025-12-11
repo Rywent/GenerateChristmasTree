@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenerateChristmasTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aac8d0bbce94fda93ebe611f55fc00730a98a82")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenerateChristmasTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenerateChristmasTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
